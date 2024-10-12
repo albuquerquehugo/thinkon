@@ -1,4 +1,4 @@
-# thinkon
+# ThinkOn
 
 Project: User Management REST API
 Author: Hugo Albuquerque
@@ -27,5 +27,7 @@ Technologies:
 For testing purposes, use the following address: http://localhost:8080.
 
 Database is available at http://localhost:8080/h2-console, using the following credentials:
+
 username=sa
+
 password=
